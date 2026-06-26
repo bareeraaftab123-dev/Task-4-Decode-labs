@@ -83,7 +83,7 @@ This project is open source and available under the MIT License.
 Your Name - bareeraaftab123@gmail.com
 
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/bareera-aftab-532658416/
 
 🙏 Acknowledgments
 Decode Labs - For the internship opportunity and guidance
